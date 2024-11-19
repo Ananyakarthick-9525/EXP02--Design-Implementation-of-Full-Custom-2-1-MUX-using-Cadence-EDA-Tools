@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image]"C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103615.png"
+![Screenshot 2024-11-19 213358](https://github.com/user-attachments/assets/5230a189-502d-4b6a-a370-9c548b81d2ca)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103636.png")
+![Screenshot 2024-11-19 213408](https://github.com/user-attachments/assets/f797b0a5-8631-42c4-907d-fd93a4da6cc1)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103715.png")
+![Screenshot 2024-11-19 213417](https://github.com/user-attachments/assets/1a810185-b0b3-45a3-8f78-8e659551a622)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,14 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103736.png")
+![Screenshot 2024-11-19 213435](https://github.com/user-attachments/assets/6ad26f8a-31ea-44e5-a36b-1c9d139e008d)
+
 
 For Transient Analysis Settings and Output
- ![image]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103823.png")
+ ![Screenshot 2024-11-19 213448](https://github.com/user-attachments/assets/408ff9b4-7ccd-4e7f-ad11-3e883c75dc9f)
 
- ![image]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-10-26 103808.png")
+![Screenshot 2024-11-19 213502](https://github.com/user-attachments/assets/43c47a10-0abf-4440-a08d-2cb8f6f30ffd)
+
 
 
 
